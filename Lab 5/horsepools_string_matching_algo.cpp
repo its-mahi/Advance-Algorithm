@@ -12,11 +12,11 @@ int main() {
     
     string text;
     cout << "Enter your text : ";
-    cin >> text;
+    getline(cin, text, '\n');
     
     string pattern;
     cout << "Enter your pattern to find in text : ";
-    cin >> pattern;
+    getline(cin, pattern, '\n');
     
     int n = text.size();
     int m = pattern.size();
