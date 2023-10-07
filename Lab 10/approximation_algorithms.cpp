@@ -1,3 +1,10 @@
+/*
+ * @author : its_mahi
+ * 
+ * note : code is not completed, remaining to generalized the code.
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
