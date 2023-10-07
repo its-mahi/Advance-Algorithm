@@ -1,7 +1,7 @@
 /*
  * @author : its_mahi
  * 
- * note : code is not completed, remaining to generalized the code.
+ * note : code is not completed, remaining to generalize the code.
 */
 
 
